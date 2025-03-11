@@ -19,7 +19,7 @@ containing page views, session durations, bounce rates, and traffic sources.
 
 ## Output
 The notebook generates various charts, including:
-- Website traffic trends over time.
-- Traffic source distribution.
+- Website traffic trends over time (page views).
+- Unique visitors analysis.
 - Bounce rate analysis.
-- Average session duration by day.
+
